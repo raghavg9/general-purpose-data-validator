@@ -1,0 +1,15 @@
+suite:
+  name: MY_EXPECTATIONS
+  expectations:
+    - expectation_code: FIRST_EXP_CODE
+      expect_values:
+        fld_name: WARRANTY_DURATION
+        values:
+          - A
+          - B
+          - C
+    - expectation_code: SECOND_EXP_CODE
+      expect_range:
+        fld_name: AMOUNT
+        range_lower: 1
+        range_upper: 10
