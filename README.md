@@ -1,4 +1,6 @@
-# Validator- Breeze Airways
+#  General Purpose Validator- Breeze Airways
+
+Please Refer to the image file attached in this repo for more details.
 
 ### Prerequisites
 please install pytest and pyyaml.
