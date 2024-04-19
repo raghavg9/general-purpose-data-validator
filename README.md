@@ -1,4 +1,4 @@
-# Validator- Breeze Assignment
+# Validator- Breeze Airways
 
 ### Prerequisites
 please install pytest and pyyaml.
