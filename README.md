@@ -1,4 +1,4 @@
-#  General Purpose Validator- Breeze Airways
+#  General Purpose Validator
 
 
 ### Objective
