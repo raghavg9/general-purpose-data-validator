@@ -2,8 +2,7 @@
 
 
 ### Objective
- Create a general purpose data validator in python that is initially to support two expectations of the data namely "expect values" and "expect range of values"
-• The 00 design is to allow for future expectations. This is a greatly simplified version of the Great Expectations python module.
+ Create a general purpose data validator in python that is initially to support two expectations of the data namely "expect values" and "expect range of values". The 00 design is to allow for future expectations. This is a greatly simplified version of the Great Expectations python module.
 
 ### Validator and Expectations: 
 The core of the validator accepts the paths to csv files whose contents are to be validated and the path to the file to which the results of the validation are written. The validator also accepts the path to the configuration file (json) that specifies the single expectation suite and the collection of expectations within that suite. it is to leverage classes that provide the validator
